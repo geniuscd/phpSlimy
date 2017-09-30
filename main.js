@@ -1,2 +1,2 @@
-use 'strict';
+'use strict';
 throw 'John CENAAA!';
