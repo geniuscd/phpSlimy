@@ -1,2 +1,2 @@
 'use strict';
-throw 'John CENAAA!';
+throw 'And his name is: John CENAAAAAAAAAAAAAAAAAAAAA!';
