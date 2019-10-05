@@ -1,0 +1,1 @@
+<h1>Kamal's birthday Sunday October 12th 2019 at 8:00pm, Location TBD</h1><a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=Y2hpbThwMWk2MHBqMmI5azY5Z204YjlrYzhxajBiYjI2a3FtYWJiMzY0cTZhcGoyNzRxamNlMWljNCBqYWRiYXpAbQ&amp;tmsrc=jadbaz%40gmail.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en-GB.gif"></a>
